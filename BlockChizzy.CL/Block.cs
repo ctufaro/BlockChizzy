@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 namespace BlockChizzy.CL
 {
     //https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54
+    //https://lhartikk.github.io/jekyll/update/2017/07/14/chapter1.html
     public class Block:IEquatable<Block>
     {
         public int Index { get; set; }
