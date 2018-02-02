@@ -1,0 +1,5 @@
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CL\bin\Debug\BlockChizzy.CL.dll
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CL\bin\Debug\BlockChizzy.CL.pdb
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CL\obj\Debug\BlockChizzy.CL.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CL\obj\Debug\BlockChizzy.CL.dll
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CL\obj\Debug\BlockChizzy.CL.pdb

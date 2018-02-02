@@ -1,0 +1,8 @@
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\bin\Debug\BlockChizzy.CON.exe.config
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\bin\Debug\BlockChizzy.CON.exe
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\bin\Debug\BlockChizzy.CON.pdb
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\obj\Debug\BlockChizzy.CON.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\obj\Debug\BlockChizzy.CON.exe
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\obj\Debug\BlockChizzy.CON.pdb
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\bin\Debug\BlockChizzy.CL.dll
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.CON\bin\Debug\BlockChizzy.CL.pdb
