@@ -1,5 +1,6 @@
 ﻿using BlockChizzy.CL;
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace BlockChizzy.CON
             Block newBlock = master.GenerateNextBlock("ass");
             bool isValidBlock = master.IsValidNewBlock(newBlock, master.GetLatestBlock());
             master.MasterChain.Add(newBlock);
-            bool isValidChain = master.IsValidChain(master.MasterChain);
+            bool isValidChain = master.IsValidChain(master);
             Console.ReadLine();
         }
     }

@@ -13,13 +13,13 @@ namespace BlockChizzy.CL
 
         public void Init()
         {
-            MasterChain = new List<Block>();            
+            MasterChain = new List<Block>();
             MasterChain.Add(GenerateGenesisBlock());
         }
 
         public Block GenerateGenesisBlock()
         {
-            return new Block(0, new DateTime(1900,1,1), "Genesis Block", "816534932c2b7154836da6afc367695e6337db8a921823784c14378abed4f7d7", null);
+            return new Block(0, new DateTime(1900, 1, 1), "Genesis Block", "816534932c2b7154836da6afc367695e6337db8a921823784c14378abed4f7d7", null);
         }
 
         public Block GenerateNextBlock(string BlockData)
@@ -43,12 +43,12 @@ namespace BlockChizzy.CL
 
         public bool IsValidNewBlock(Block newBlock, Block prevBlock)
         {
-            if(prevBlock.Index + 1 != newBlock.Index)
+            if (prevBlock.Index + 1 != newBlock.Index)
             {
                 System.Console.WriteLine("Invalid Index");
                 return false;
             }
-            else if(!prevBlock.Hash.Equals(newBlock.PrevHash))
+            else if (!prevBlock.Hash.Equals(newBlock.PrevHash))
             {
                 System.Console.WriteLine("Invalid Previous Hash");
                 return false;
@@ -70,13 +70,13 @@ namespace BlockChizzy.CL
             }
             if (newChain.MasterChain.Count > 1)
             {
-                for(int i = 0; i<newChain.MasterChain.Count; i++)
+                for (int i = 0; i < newChain.MasterChain.Count; i++)
                 {
                     if (i == newChain.MasterChain.Count - 1)
                         break;
 
                     var prev = newChain.MasterChain[i];
-                    var newb = newChain.MasterChain[i+1];
+                    var newb = newChain.MasterChain[i + 1];
 
                     if (!IsValidNewBlock(newb, prev))
                         return false;
@@ -92,4 +92,5 @@ namespace BlockChizzy.CL
                 this.MasterChain = newChain.MasterChain;
             }
         }
+    }
 }
