@@ -1,0 +1,6 @@
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\bin\Debug\BlockChizzy.SRVR.exe.config
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\bin\Debug\BlockChizzy.SRVR.exe
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\bin\Debug\BlockChizzy.SRVR.pdb
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\obj\Debug\BlockChizzy.SRVR.csprojResolveAssemblyReference.cache
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\obj\Debug\BlockChizzy.SRVR.exe
+C:\Users\ctufaro_admin\My Projects\BlockChizzy\BlockChizzy.SRVR\obj\Debug\BlockChizzy.SRVR.pdb
